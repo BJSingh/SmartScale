@@ -11,12 +11,16 @@ Features:-
 •	BLE 4.0 connectivity
 •	Also acts as a Cooking timer
 
+Arduino/Genuino Code for intelcurie 101:
+Download Smart Scale Arduino code zip file which contains ino file compiles in arduino IDE. Also copy or import libraries attached in zip file required for sensor(TH02 grove temp and humidity sensor) to your arduino libraries.
 
+Android App description:
 Android App made using cordova platform, you can find reference how to build on https://cordova.apache.org/docs/en/latest/guide/platforms/android/
 
 App is made to connect Intel arduino 101 BLE board for smart scale project post on Devpost for intelHacks contest
 
 Once you are done with setup of cordova platform then create project with plugin mention below. After this you can copy www folder and config.xml available here to your here project folder. Now build and run your android app.
+Or directly you can use apk(SmartScaleApp.apk) file for testing. Allow permission needed for BLE.
 
 BLE App reference
 https://github.com/don/cordova-plugin-ble-central
