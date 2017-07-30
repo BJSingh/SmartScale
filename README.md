@@ -4,7 +4,7 @@ Working Video Link:-
 https://youtu.be/UpEkQ41bkfQ
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=UpEkQ41bkfQ
-" target="_blank"><img src="http://img.youtube.com/vi/UpEkQ41bkfQ/0.jpg" 
+" target="_blank"><img src="https://github.com/BJSingh/SmartScale/blob/master/Smart%20Nutritional%20Food%20Scale.png" 
 alt="IMAGE ALT TEXT HERE" width="600" height="360" border="20" /></a>
 
 
