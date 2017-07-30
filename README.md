@@ -5,7 +5,7 @@ https://youtu.be/UpEkQ41bkfQ
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=UpEkQ41bkfQ
 " target="_blank"><img src="http://img.youtube.com/vi/UpEkQ41bkfQ/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="600" height="360" border="20" /></a>
 
 
 This is a smart and portable food scale. Ideal for home kitchen use. Sensitive enough to weigh herbs and spices. They also have a wide range, so you can weigh heavy things like flour and rice.
