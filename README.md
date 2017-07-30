@@ -4,7 +4,7 @@ Working Video Link (Click on the Image below):-
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=UpEkQ41bkfQ
 " target="_blank"><img src="https://github.com/BJSingh/SmartScale/blob/master/Smart%20Nutritional%20Food%20Scale.png" 
-alt="IMAGE ALT TEXT HERE" width="600" height="360" border="20" /></a>
+alt="Smart Nutritional Food Scale" width="600" height="360" border="20" /></a>
 
 This is a smart and portable food scale. Ideal for home kitchen use. Sensitive enough to weigh herbs and spices. They also have a wide range, so you can weigh heavy things like flour and rice.
 It will enable people to weigh ingredients and snacks and then determine the exact amount of fat, proteins, carbohydrates and calories in the ingredients they’re using in recipes or the snacks they’re eating at home. The scales being useful for individuals with conditions such as diabetes to help them track their carbohydrates/calories intake. It will be also invaluable for dieters who track their food intake to achieve and maintain their weight loss goals. So many people use nutritional food apps, but without knowing the precise weight of the food being consumed, this information is less accurate.
