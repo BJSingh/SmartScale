@@ -35,6 +35,11 @@ Hardware Images.zip file (https://github.com/BJSingh/SmartScale/blob/master/Hard
 <b>Arduino/Genuino Code for intelcurie 101:</b><br>
 Download Smart Scale Arduino code zip file (https://github.com/BJSingh/SmartScale/blob/master/Hardware%20Images.zip) which contains ino file compiles in arduino IDE. Also copy or import libraries attached in zip file required for sensor(TH02 grove temp and humidity sensor) to your arduino libraries.
 
+
+You can download the app from here:- 
+https://github.com/BJSingh/SmartScale/blob/master/SmartScaleApp.apk
+
+
 <b>Android App description:</b><br>
 Android App made using cordova platform, you can find reference how to build on https://cordova.apache.org/docs/en/latest/guide/platforms/android/
 
