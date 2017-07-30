@@ -29,7 +29,7 @@ Working Video Link:-
 https://youtu.be/UpEkQ41bkfQ
 
 
-<b>Hardware Scrrenshots of the project:</b><br>
+<b>Hardware Screenshots of the project:</b><br>
 Hardware Images.zip file (https://github.com/BJSingh/SmartScale/blob/master/Hardware%20Images.zip) contains the screenshots of the project.
 
 <b>Arduino/Genuino Code for intelcurie 101:</b><br>
